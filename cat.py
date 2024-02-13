@@ -4,7 +4,7 @@ class Cat():
         self.name = 'Unknown'
         self.age = 0
     def speak(self):
-        print('Meow')
+        return 'Meow'
 
 
 #Create objects here
